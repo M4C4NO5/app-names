@@ -1,7 +1,7 @@
 <?php
 
 $host = 'localhost';
-$db = 'app_nombres';
+$db = 'app_names';
 $user = 'root';
 $pass = '';
 
